@@ -7,7 +7,7 @@
 
 #### Frameworks <p align="left"><a href="https://ionicframework.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="40" height="40"/> </a></p> 
 
- #### Mobile <p align="left"> </p> <p> <a href="https://kotlinlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg " alt="Kotlin" width="40" height="40"/> </a>
+ #### Mobile <p align="left"> </p> <p> <a href="https://kotlinlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/> </a>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rocpjunior&show_icons=true&locale=en&layout=compact" alt="ropcjunior" /></p> 
 
  #### Bases de Dados <p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/> </a></p> 
