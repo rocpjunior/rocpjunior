@@ -1,16 +1,14 @@
-### Hi there 👋
+# Bem vindo ao meu GitHub | Welcome to my GitHub page 👋
 
-<!--
-**rocpjunior/rocpjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-cirera-procopio-jr/)](https://www.linkedin.com/in/roberto-cirera-procopio-jr/) 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ohT97gdpR40vK/giphy.gif"> 💻Olá, me chamo Roberto, tenho 23 Anos, e sou iniciante na área de desenvolvimento,  com conhecimento básico nas áreas de desenvolvimento web, desenvolvimento de sistemas e desenvolvimento mobile, e atualmente estou fazendo o curso de Desenvolvimento de Sistemas na Etec de Mauá.
 
-Here are some ideas to get you started:
+ #### Linguagens e Tecnologias em aprendizagem <p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  </p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Frameworks <p align="left"><a href="https://ionicframework.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="40" height="40"/> </a></p> 
+
+ #### Mobile <p align="left"> </p> <p> <a href="https://kotlinlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg " alt="Kotlin" width="40" height="40"/> </a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rocpjunior&show_icons=true&locale=en&layout=compact" alt="ropcjunior" /></p> 
+
+ #### Bases de Dados <p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/> </a></p> 
+ <br> 👨🏻‍💻 - Além da Etec, desejo bastante me aprofundar na área de desenvolvimento mobile, que envolvem as linguagens Kotlin, ionic e ReactNative, e também nos principais frameworks JavaScript, como o Angular, ReactJS e o VueJS.
