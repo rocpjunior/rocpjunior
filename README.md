@@ -13,4 +13,9 @@
     <img height="215em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocpjunior&layout=compactBlangs_count16&theme=dracula" alt="ropcjunior"/>
 </div>
   
-## Meu LinkedIn / My LinkedIn page: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-cirera-procopio-jr/)](https://www.linkedin.com/in/roberto-cirera-procopio-jr/)
+  ##
+  <div>
+    <a href="https://www.linkedin.com/in/roberto-cirera-procopio-jr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:rocpjunior@icloud.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+    <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  </div>  
