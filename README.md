@@ -1,10 +1,10 @@
 # Bem vindo ao meu GitHub | Welcome to my GitHub page 🎉
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ohT97gdpR40vK/giphy.gif"> 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/6IanN6Nqj0JFK/giphy.gif">  
 
-🇧🇷 Olá, eu sou o Roberto, tenho 24 Anos, e atualmente sou um estudante. Quando eu tenho tempo livre, uso meu tempo para adquirir novos conhecimentos do universo Mobile.
+🇧🇷 Olá, me chamo Roberto, e sou iniciante no universo de desenvolvimento Mobile. Fique a vontade para conhecer os meus projetos pessoais. =D
 
-🇺🇸 Hi, I am Roberto, I have 24 years, and actually I'm an Student. When I have free time, I use my time to get new knowledges about Mobile universe.  
+🇺🇸 Hi, my name is Roberto, and I'm a beginner in the Mobile development universe. Feel free to know my personal projects. =D  
 
 ## Todo meu conhecimento aqui / My all knowledge here
 <div>
