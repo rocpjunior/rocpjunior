@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/6IanN6Nqj0JFK/giphy.gif">  
 
-🇧🇷 Olá, me chamo Roberto, e sou iniciante no universo de desenvolvimento Mobile. Fique a vontade para conhecer os meus projetos pessoais. =D
+🇧🇷 Olá, me chamo Roberto, e sou iniciante no universo de desenvolvimento Mobile. Fique a vontade para conhecer o meu portfólio . =D
 
-🇺🇸 Hi, my name is Roberto, and I'm a beginner in the Mobile development universe. Feel free to know my personal projects. =D  
+🇺🇸 Hi, my name is Roberto, and I'm a beginner in the Mobile development universe. Feel free to know my portfólio. =D  
 
 ## Todo meu conhecimento aqui / My all knowledge here
 <div>
