@@ -9,8 +9,8 @@
 ## Todo meu conhecimento aqui / My all knowledge here
 <div>
   <a href="http://github.com/rocpjunior">
-    <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api?username=rocpjunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="230em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocpjunior&layout=compactBlangs_count16&theme=dracula" alt="rocpjunior"/>
+    <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api?username=rocpjunior&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+    <img height="230em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocpjunior&count16&theme=dracula" alt="rocpjunior"/>
 </div>
   
   <div>
