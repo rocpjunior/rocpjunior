@@ -1,6 +1,4 @@
-# Bem vindo ao meu GitHub | Welcome to my GitHub page 🎉
-
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/6IanN6Nqj0JFK/giphy.gif">  
+# Bem vindo ao meu GitHub | Welcome to my GitHub page 🎉 
 
 🇧🇷 Olá, me chamo Roberto, e sou iniciante no universo de desenvolvimento Mobile. Fique a vontade para conhecer o meu portfólio . =D
 
@@ -14,7 +12,6 @@
 </div>
   
   <div>
-    <a href="https://twitter.com/rocpjunior" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/roberto-cirera-procopio-jr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:rocpjunior@icloud.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
   </div>
