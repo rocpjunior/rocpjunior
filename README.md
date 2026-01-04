@@ -4,7 +4,7 @@
 
 🇺🇸 Hi, my name is Roberto, and I'm a beginner in the Mobile development universe. Feel free to know my portfólio. =D  
 
-## Todo meu conhecimento aqui / My all knowledge here
+## Todo meu conhecimento aqui / All my knowledge here
 <div>
   <a href="http://github.com/rocpjunior">
     <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api?username=rocpjunior&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
