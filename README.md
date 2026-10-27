@@ -1,8 +1,8 @@
 # Bem vindo ao meu GitHub | Welcome to my GitHub page 🎉 
 
-🇧🇷 Olá, me chamo Roberto, e sou iniciante no universo de desenvolvimento Mobile. Fique a vontade para conhecer o meu portfólio . =D
+🇧🇷 Olá, me chamo Roberto, e sou iniciante no universo de desenvolvimento Mobile. Fique a vontade para conhecer o meu Git Hub.
 
-🇺🇸 Hi, my name is Roberto, and I'm a beginner in the Mobile development universe. Feel free to know my portfólio. =D  
+🇺🇸 Hi, my name is Roberto, and I'm a beginner in the Mobile development universe. Feel free to know my GitHub.  
 
 ## Todo meu conhecimento aqui / All my knowledge here
 <div>
